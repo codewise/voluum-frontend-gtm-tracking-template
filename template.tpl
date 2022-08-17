@@ -6,6 +6,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Voluum Tracking Template",
+  "categories": ["ANALYTICS","AFFILIATE_MARKETING","CONVERSIONS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
